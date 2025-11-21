@@ -1,2 +1,2 @@
-Project Name: web-app-2 <br>
+Project Name: web_app_2 <br>
 IDE: Eclipse
